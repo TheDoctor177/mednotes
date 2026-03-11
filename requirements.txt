@@ -1,0 +1,8 @@
+streamlit
+openai
+python-dotenv
+openai-whisper
+yt-dlp
+pymupdf
+python-pptx
+pillow
